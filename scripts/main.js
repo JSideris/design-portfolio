@@ -1,9 +1,6 @@
 /*
 This is the main file that builds the body of the page using DOThtml.
 Import it before usercscript.js, but after <body>.
-
-There will also be an online version of this file that can be referenced. Updates will be pushed to the online version.
-The automatic updates are the only reason to use the online version. If you want stability, use the main.js included in the /scripts folder.
 */
 
 var gridModeEnabled = false;
